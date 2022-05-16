@@ -1,0 +1,3 @@
+fekete;100;hadnagy;20
+piros;90;tábornok;50
+fekete;50;tiszt;10
